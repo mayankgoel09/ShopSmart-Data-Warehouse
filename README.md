@@ -164,24 +164,6 @@ Business-ready reporting views designed for Power BI, Tableau, or other BI platf
 
 ---
 
-# 📁 Project Structure
-
-```text
-ShopSmart-Data-Warehouse/
-│
-├── datasets/
-│
-├── scripts/
-│   ├── create_database.sql
-│   ├── bronze_layer.sql
-│   ├── silver_layer.sql
-│   ├── gold_layer.sql
-│
-├── README.md
-│
-└── screenshots/
-```
-
 ---
 
 # 🚀 Key Skills Demonstrated
