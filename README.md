@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project is an end-to-end automated Data Warehouse solution, engineered from the ground up to manage the full lifecycle of business data. It implements a robust, multi-layer architecture—**Bronze (Raw)**, **Silver (Cleaned/Standardized)**, and **Gold (Reporting Ready)**—to transform raw source files into high-value business intelligence.
+The project includes database creation, ETL pipelines, data cleansing, data transformation, dimensional modeling, and analytical views that support business intelligence and reporting.
 
 ## Architecture & Layers
 * **Bronze Layer (Ingestion)**: The entry point where raw CRM and ERP data is ingested from external CSV sources into the database.
